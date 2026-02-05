@@ -2,7 +2,7 @@
 
 ## Curso Prático Hands-on
 
-# Visão geral
+### Visão geral
 
 Este repositório contém os materiais e fluxos de trabalho de um curso prático focado em montagem de genomas, anotação estrutural e funcional, e identificação de variantes genéticas em plantas, utilizando *Arabidopsis thaliana* como sistema modelo.
 
