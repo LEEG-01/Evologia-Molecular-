@@ -49,4 +49,16 @@ Anotação Estrutural do Genoma
 + Anotação estrutural de genes com Helixer (anotação ab initio baseada em aprendizado profundo)
 + Anotação estrutural de genes com EviAnn (anotação baseada em evidências usando RNA-seq e homologia proteica)
 + Comparação de anotações com GFF3
-+ Introdução ao Galaxy para avaliação da anotação com BUSCO 
++ Introdução ao Galaxy para avaliação da anotação com BUSCO
+
+Dia 3 (07/02): Chamada de Variantes e Genômica de Populações
++ Identificação de SNPs e análises de diversidade genética
++ Alinhamento de leituras com BWA
++ Processamento e avaliação de arquivos BAM
++ Chamada de SNPs com bcftools
++ Filtragem de variantes e estatísticas
++ Cálculo de diversidade nucleotídica (π)
++ Análises de FST em janelas deslizantes
++ Visualização de diferenciação genômica
++ Interseção de regiões altamente diferenciadas com anotações gênicas
++ Interpretação biológica de regiões candidatas sob seleção
