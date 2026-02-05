@@ -29,12 +29,24 @@ Dia 1 (05/02): Montagem e Avaliação do Genoma
 + Organização de dados e estruturação do fluxo de trabalho
 + Controle de qualidade das leituras de sequenciamento
 + Leituras longas: NanoPlot
-Leituras curtas: FastQC e MultiQC
-Perfil genômico por análise de k-mers (Jellyfish, GenomeScope)
-Montagem do genoma com leituras PacBio HiFi usando hifiasm
-Conversão de arquivos GFA para FASTA
-Avaliação da montagem:
-Estatísticas básicas (SeqKit)
-Qualidade e contiguidade da montagem (QUAST)
-Avaliação de completude (BUSCO)
-Comparação com o genoma de referência publicado de A. thaliana
++ Leituras curtas: FastQC e MultiQC
++ Perfil genômico por análise de k-mers (Jellyfish, GenomeScope)
++ Montagem do genoma com leituras PacBio HiFi usando hifiasm
++ Conversão de arquivos GFA para FASTA
++ Avaliação da montagem:
++ Estatísticas básicas (SeqKit)
++ Qualidade e contiguidade da montagem (QUAST)
++ Avaliação de completude (BUSCO)
++ Comparação com o genoma de referência publicado de *A. thaliana*
+
+Dia 2 (06/02): 
+Anotação Estrutural do Genoma
++ Anotação de elementos repetitivos e predição gênica
++ Identificação e anotação de DNA repetitivo
++ RepeatModeler
++ RepeatMasker
++ Estratégias de mascaramento do genoma
++ Anotação estrutural de genes com Helixer (anotação ab initio baseada em aprendizado profundo)
++ Anotação estrutural de genes com EviAnn (anotação baseada em evidências usando RNA-seq e homologia proteica)
++ Comparação de anotações com GFF3
++ Introdução ao Galaxy para avaliação da anotação com BUSCO 
