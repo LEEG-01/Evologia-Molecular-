@@ -16,19 +16,19 @@ Estudantes de pós-graduação, pós-doutorandos e pesquisadores das áreas de g
 Bioinformatas e técnicos que trabalham com dados genômicos
 Estudantes interessados em aprender pipelines práticos de análise genômica
 
-###Conhecimentos prévios esperados
+### Conhecimentos prévios esperados
 Para melhor aproveitamento do curso, espera-se que os participantes:
 Tenham familiaridade com ambientes Linux e linha de comando
 Possuam conhecimentos básicos de genômica (DNA, RNA, genes, SNPs)
 Tenham noções básicas de R e/ou Python (recomendado, mas não obrigatório)
 
-###Programa
+### Programa
 Dia 1 (05/02): Montagem e Avaliação do Genoma
-Montagem do genoma utilizando leituras longas e curtas
-Instalação de ferramentas bioinformáticas utilizando conda
-Organização de dados e estruturação do fluxo de trabalho
-Controle de qualidade das leituras de sequenciamento
-Leituras longas: NanoPlot
++ Montagem do genoma utilizando leituras longas e curtas
++ Instalação de ferramentas bioinformáticas utilizando conda
++ Organização de dados e estruturação do fluxo de trabalho
++ Controle de qualidade das leituras de sequenciamento
++ Leituras longas: NanoPlot
 Leituras curtas: FastQC e MultiQC
 Perfil genômico por análise de k-mers (Jellyfish, GenomeScope)
 Montagem do genoma com leituras PacBio HiFi usando hifiasm
