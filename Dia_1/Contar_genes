@@ -1,0 +1,12 @@
+$ grep -c -P "\tgene" genomic.gff
+$ cut -f3 genomic.gff | grep -c "gene"
+$ grep -w "gene" arquivo.txt
+
+gene
+pseudogene
+transposable_element_gene
+ncRNA_gene
+protein_coding_gene
+
+Correto
+awk '$3=="gene"' genomic.gff | wc -l
