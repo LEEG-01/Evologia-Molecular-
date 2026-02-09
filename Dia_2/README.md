@@ -40,7 +40,7 @@ head GCA_000001735.2_TAIR10.1_genomic.fna.out.gff
 ```bash
 grep -v "^#" GCA_000001735.2_TAIR10.1_genomic.fna.tbl
 ```
-### Anotação estrutural de genes 
+## Anotação estrutural de genes 
 Ative o ambiente:
 ```bash
 conda activate genome_assembly_course
@@ -49,14 +49,14 @@ Agora, instale o gffcompare dentro desse ambiente:
 ```bash
 conda install -c conda-forge -c bioconda gffcompare -y
 ```
-## Helixer  - software de anotação de novo de genomas eucarióticos
+###  Helixer  - software de anotação de novo de genomas eucarióticos
 Artigo - https://doi.org/10.1093/bioinformatics/btaa1044
 
 Site - https://www.plabipd.de/helixer_main.html
 
 Helixer é um software de anotação estrutural de genomas baseado em *deep learning*. Diferente de métodos clássicos, ele aprende padrões biológicos diretamente das sequências. Ab initio assistido por aprendizado de máquina. Não precisa de RNA-seq ou proteínas (mas pode ser refinado depois).
 
-## EviAnn  - software de anotação de genomas eucarióticos baseado em evidências
+###  EviAnn  - software de anotação de genomas eucarióticos baseado em evidências
 Artigo - https://www.biorxiv.org/content/10.1101/2025.05.07.652745v2 
 
 GitHUB - alekseyzimin/EviAnn_release: This is the standalone version of the EviAnn pipeline 
@@ -174,7 +174,7 @@ Enviar arquivos gff3 de todas as anotações incluindo do artigo original
 Transformar arquivos GFF3 em Fasta de proteínas 
 
 Na barra de ferramentas, digitar:
-## BUSCO: Assess genome assembly and annotation completeness
+###  BUSCO: Assess genome assembly and annotation completeness
 Configurar 
 Input    **proteínas FASTA**
 Mode    **proteins**
