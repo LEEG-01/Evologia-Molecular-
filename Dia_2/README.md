@@ -174,7 +174,7 @@ Enviar arquivos gff3 de todas as anotações incluindo do artigo original
 Transformar arquivos GFF3 em Fasta de proteínas 
 
 Na barra de ferramentas, digitar:
-###  BUSCO: Assess genome assembly and annotation completeness
+**BUSCO: Assess genome assembly and annotation completeness**
 Configurar 
 Input    **proteínas FASTA**
 Mode    **proteins**
