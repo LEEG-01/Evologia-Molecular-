@@ -2,14 +2,11 @@
 ## Anotação estrutural do genoma
 
 ### Anotação de DNA Repetitivo com RepeatModeler e RepeatMasker
-
 1. Organizar arquivos 
-
 Rodar dentro da pasta annotation (Dentro de Aula_2):
+```mkdir repeats```
 
-mkdir repeats
-
-2. Construir biblioteca de repetições (RepeatModeler)
+3. Construir biblioteca de repetições (RepeatModeler)
 
 Para a prática, nós usamos o RepeatModeler para criar uma base de dados de repeats específica de A. thaliana dentro da pasta annotation/repeats. Este passo é computacionalmente pesado, então não precisa rodar na aula.:
 
